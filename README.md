@@ -1,7 +1,7 @@
 # NETFLIX-Pymaceuticals-Continued-Making-Matplotlib-Magic
 ## Instructions:
 
-**Part 1:** Regenerate Data and Create Detailed Subplot
+Regenerate Data and Create Detailed Subplot
 
 1. Using the supplied starter code, re-import, clean and visualize the drug regimen data from the previous skill-drill. 
 
